@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.col{
+  height: 50px;
+  width: 50px;
+  
+}
+.btn{
+  border: none;
+  background-color: none;
+}
+.art{
+  background-color: azure;
+}
